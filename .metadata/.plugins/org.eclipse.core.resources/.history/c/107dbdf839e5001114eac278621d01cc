@@ -1,0 +1,16 @@
+package executaveis;
+
+public class TesteLivro {
+	static int i, cont = 0;
+		
+	public static void main(String[] args) {
+		System.out.println("hello");
+		
+		while(cont != 1095) {
+			for(i = 1; i <= cont; i++)
+				cont += i;
+		}
+		System.out.println(cont);
+	}
+
+}

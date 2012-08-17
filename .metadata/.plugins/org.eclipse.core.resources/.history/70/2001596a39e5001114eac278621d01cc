@@ -1,0 +1,12 @@
+package executaveis;
+
+public class TesteLivro {
+	int i, cont;
+		
+	public void main(String[] args) {
+		for(i = 1; i <= cont; i++)
+			cont += i;
+
+	}
+
+}

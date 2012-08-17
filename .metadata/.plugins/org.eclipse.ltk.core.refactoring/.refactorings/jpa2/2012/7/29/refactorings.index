@@ -1,0 +1,14 @@
+1342026200010	Delete element
+1342030321222	Rename package 'br.com.caelum.financas.DAO'
+1342114952642	Rename type 'TestaAlteraConta'
+1342114970689	Rename package 'br.com.caelum.financas.teste'
+1342114986870	Rename type 'TestaInsereConta'
+1342114991793	Rename type 'TestaListagemConta'
+1342115000466	Rename type 'TestaMovimentacao'
+1342115129823	Rename type 'Movimentacao'
+1342115160337	Rename type 'TestaPesquisaPorId'
+1342115166830	Rename type 'TestaRemoveConta'
+1342118080973	Inline local variable 'scan'
+1342118096133	Inline local variable 'scan2'
+1342118132880	Inline local variable 'scan'
+1342191169969	Delete element

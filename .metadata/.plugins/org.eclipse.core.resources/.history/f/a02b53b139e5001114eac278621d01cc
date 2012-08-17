@@ -1,0 +1,14 @@
+package executaveis;
+
+public class TesteLivro {
+	static int i, cont;
+		
+	public static void main(String[] args) {
+		while(cont != 1095) {
+			for(i = 1; i <= cont; i++)
+				cont += i;
+		}
+		System.out.println(cont);
+	}
+
+}

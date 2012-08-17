@@ -1,0 +1,4 @@
+127.0.0.1 - - [16/Jul/2012:13:34:04 -0300] "GET / HTTP/1.1" 404 955
+0:0:0:0:0:0:0:1 - - [16/Jul/2012:13:34:26 -0300] "GET /projeto-fj25-web HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [16/Jul/2012:13:34:26 -0300] "GET /projeto-fj25-web/ HTTP/1.1" 200 3071
+0:0:0:0:0:0:0:1 - - [16/Jul/2012:13:34:26 -0300] "GET /projeto-fj25-web/javax.faces.resource/jsf.js.xhtml?ln=javax.faces HTTP/1.1" 200 28590

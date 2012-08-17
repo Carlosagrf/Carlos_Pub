@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="src" path=".apt_generated">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/avro-1.5.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/guava-r05.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate-commons-annotations-4.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate-core-4.1.3.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate-entitymanager-4.1.3.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate-jpamodelgen-1.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate-search-analyzers-4.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate-search-engine-4.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate-search-infinispan-4.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate-search-orm-4.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate-validator-4.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/infinispan-core-5.1.4.FINAL.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/infinispan-lucene-directory-5.1.4.FINAL.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javassist-3.15.0-GA.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jboss-marshalling-1.3.11.GA.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jboss-marshalling-river-1.3.11.GA.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jgroups-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jms-1.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jsf-api.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jsf-impl.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-analyzers-3.5.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/paranamer-2.3.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/primefaces-2.0.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/rhq-pluginAnnotations-3.0.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/snappy-java-1.0.1-rc3.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/stax2-api-3.1.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/woodstox-core-asl-4.1.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/apache-lucene.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/apache-lucene-analyzers.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/ant-1.7.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/ant-junit-1.7.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-core-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-test-framework-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/apache-lucene-highlighter.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/apache-lucene-misc.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/apache-lucene-similarity.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/apache-lucene-snowball.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/apache-lucene-spellchecker.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-compress-1.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/icu4j-4.8.1.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-1.3.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-analyzers-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-benchmark-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-demo-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-facet-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-grouping-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-highlighter-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-icu-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-instantiated-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-join-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-kuromoji-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-memory-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-misc-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-phonetic-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-pruning-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-queries-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-remote-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-xml-query-parser-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate-search-3.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/servlet-api-2.4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

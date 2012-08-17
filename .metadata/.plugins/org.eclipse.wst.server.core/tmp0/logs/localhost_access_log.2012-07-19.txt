@@ -1,0 +1,13 @@
+127.0.0.1 - - [19/Jul/2012:13:17:44 -0300] "GET / HTTP/1.1" 404 955
+0:0:0:0:0:0:0:1 - - [19/Jul/2012:13:18:49 -0300] "GET /projeto-fj25-web HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/Jul/2012:13:18:49 -0300] "GET /projeto-fj25-web/ HTTP/1.1" 200 3073
+0:0:0:0:0:0:0:1 - - [19/Jul/2012:13:18:50 -0300] "GET /projeto-fj25-web/javax.faces.resource/jsf.js.xhtml?ln=javax.faces HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Jul/2012:13:18:50 -0300] "GET /favicon.ico HTTP/1.1" 404 988
+0:0:0:0:0:0:0:1 - - [19/Jul/2012:13:18:57 -0300] "POST /projeto-fj25-web/index.xhtml;jsessionid=0CCB7A284FA411C09D0A8AC0F34EB0B9 HTTP/1.1" 200 6268
+0:0:0:0:0:0:0:1 - - [19/Jul/2012:13:18:58 -0300] "GET /projeto-fj25-web/javax.faces.resource/jsf.js.xhtml?ln=javax.faces HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Jul/2012:13:18:58 -0300] "GET /favicon.ico HTTP/1.1" 404 988
+127.0.0.1 - - [19/Jul/2012:13:26:40 -0300] "GET / HTTP/1.1" 404 955
+0:0:0:0:0:0:0:1 - - [19/Jul/2012:13:27:19 -0300] "GET /projeto-fj25-web/movimentacoesDaConta.xhtml HTTP/1.1" 200 1661
+0:0:0:0:0:0:0:1 - - [19/Jul/2012:13:27:19 -0300] "GET /favicon.ico HTTP/1.1" 404 988
+0:0:0:0:0:0:0:1 - - [19/Jul/2012:13:27:31 -0300] "POST /projeto-fj25-web/movimentacoesDaConta.xhtml;jsessionid=F0B33A1BDC03A76E774D5ACD6EFD22BA HTTP/1.1" 500 3548
+0:0:0:0:0:0:0:1 - - [19/Jul/2012:13:27:31 -0300] "GET /favicon.ico HTTP/1.1" 404 988
